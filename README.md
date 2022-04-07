@@ -4,7 +4,7 @@ This is a basic library for building card games in JavaScript. Write games in pu
 
 ![A screenshot of Klondike Solitaire implemented with our library.][screenshot]
 
-For the spring 2011 [Berkeley CSUA hackathon][hack], [Valerie Woolard][vw], [Jonathan Ewart][je] and I designed and implemented a library for easily creating JavaScript card games. The goal behind the library was simple: the library’s user should be able to focus only on the rules of the game without worrying about the underlying HTML, CSS and JavaScript.
+For the Winter2022 [Maseno University][hack], I designed and implemented a library for easily creating JavaScript card games. The goal behind the library was simple: the library’s user should be able to focus only on the rules of the game without worrying about the underlying HTML, CSS and JavaScript.
 
 Jonathan Ewart worked on the actual UI code and the game of War, Valerie Woolard worked on the graphics and visual design and I worked on the core abstractions and game of Klondike Solitaire.
 
